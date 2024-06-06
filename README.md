@@ -33,7 +33,7 @@ The Object Finder Bot uses the following main steps to find the target object in
 
 Follow these steps to set up and run the Object Finder Bot on your local machine:
 
-1. Clone the repository: `git clone https://github.com/VishalManam//object-detection-bot.git`
+1. Clone the repository: `git clone [https://github.com/kalakamcherisashank//Object-Detection-Bot.git]`
 2. Navigate to the project directory: `cd object-detection-bot`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Run the application: `python object_detection_bot.py`
